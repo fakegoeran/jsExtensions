@@ -1,0 +1,5 @@
+== Introduction
+This small JavaScript library will extend the standard java script objects, sucn has Array and String.
+
+I've written this library together with http://github.com/alexyork
+
